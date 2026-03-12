@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome to my GitHub! Here's a little about me 👋
 <!--
 **ahsd-coder/ahsd-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-hobby:
-1. machine learning (NLP, CV)
-2. music (particularly guitar, eight years)
+stack: backend & LLM algorithms
+hobby: guitar (8 years) 
 ```
