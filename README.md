@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+hobby:
+1. machine learning (NLP, CV)
+2. music (particularly guitar, eight years)
+```
