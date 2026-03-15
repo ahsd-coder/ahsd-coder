@@ -5,11 +5,7 @@
 📮 邮箱：2517493177@qq.com  
 🔴 个人博客：https://t.zsxq.com/vdy4o  
 🎸 兴趣爱好：吉他（五年）  
-🌈 技术栈：NLP、大模型、后端开发  
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
+🌈 技术方向：NLP、大模型、后端开发  
 
 ## 🛠️ 技术栈
 
