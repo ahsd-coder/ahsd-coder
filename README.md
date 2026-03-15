@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 📕个人博客：https://t.zsxq.com/vdy4o
 🎸兴趣爱好：吉他（五年）
 🌈技术栈：NLP、大模型、后端开发
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&gap=8&lineHeight=32&theme=dark&bg=%230d1117&title=技术栈&titleBg=%23161b22&borderRadius=8&border=%2330363d&showBorder=true&stack=html5,css3,javascript,typescript,react,vue,nodejs,springboot,mysql,redis,git,github,visualstudiocode,postman,photoshop)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&gap=8&lineHeight=32&theme=dark&bg=%230d1117&title=技术栈&titleBg=%23161b22&borderRadius=8&border=%2330363d&showBorder=true&stack=python,java,typescript,nodejs,mysql,redis,git,vscode,springboot,vue,react)
 ```
