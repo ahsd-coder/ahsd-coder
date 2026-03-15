@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-stack: backend & LLM algorithms
-hobby: guitar (8 years) 
+🔭学历背景：02年，河北师范大学本科，西安电子科技大学研究生（在读）
+💬微信：Gujw0929
+📫邮箱：2517493177@qq.com
+📕个人博客：https://t.zsxq.com/vdy4o
+🎸兴趣爱好：吉他（五年）
+🌈技术栈：NLP、大模型、后端开发
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&gap=8&lineHeight=32&theme=dark&bg=%230d1117&title=技术栈&titleBg=%23161b22&borderRadius=8&border=%2330363d&showBorder=true&stack=html5,css3,javascript,typescript,react,vue,nodejs,springboot,mysql,redis,git,github,visualstudiocode,postman,photoshop)
 ```
