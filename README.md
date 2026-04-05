@@ -6,7 +6,7 @@
 🔴 个人博客：https://t.zsxq.com/vdy4o  
 🔴 魔搭社区：https://www.modelscope.cn/profile/gujwwww  
 🎸 兴趣爱好：吉他（五年）  
-🌈 技术方向：NLP、大模型、后端开发  
+🌈 技术方向：CV、NLP(大模型)、多模态、后端开发  
 
 ## 🛠️ 技术栈
 
