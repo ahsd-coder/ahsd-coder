@@ -10,4 +10,4 @@
 
 ## 🛠️ 技术栈
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,python,java,linux,docker,git,elasticsearch,redis,ps&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,python,java,linux,pytorch,transformers,peft,langchain,openai-agent,git,docker,elasticsearch,redis,miluvs,ps&theme=dark)](https://skillicons.dev)
